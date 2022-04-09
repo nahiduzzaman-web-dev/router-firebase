@@ -1,0 +1,31 @@
+.header {
+    margin-top: 30px;
+}
+
+.header nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header nav a:hover {
+    color: goldenrod;
+}
+
+.sign-out {
+    background-color: tomato;
+    color: #fff;
+    font-size: 20px;
+}
+
+.sign-out:hover {
+    background-color: rgba(255, 99, 71, 0.767);
+    cursor: pointer;
+}
+
+.user-name {
+    color: cadetblue;
+    font-size: 18px;
+}
